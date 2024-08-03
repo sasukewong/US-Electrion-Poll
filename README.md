@@ -10,4 +10,4 @@ Electoral Votes https://www.archives.gov/electoral-college/allocation
 
 Data Visualization Preview:
 
-![image](https://github.com/user-attachments/assets/e9f62b37-38c3-458a-ba77-ba3b1db5741f)
+![image](https://github.com/user-attachments/assets/d8ce8eb9-2194-4b63-ab1f-bff71ed555c6)
