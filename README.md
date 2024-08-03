@@ -8,5 +8,6 @@ State Code from https://github.com/jasonong/List-of-US-States/blob/master/states
 
 Electoral Votes https://www.archives.gov/electoral-college/allocation
 
+Data Visualization Preview:
 
-![image]([https://github.com/user-attachments/assets/bc7d7510-2235-4f87-abc2-f1dbd7be5afe](https://github.com/sasukewong/US-Electrion-Poll/blob/main/Data%20Visualization.png))
+![image](https://github.com/user-attachments/assets/e9f62b37-38c3-458a-ba77-ba3b1db5741f)
